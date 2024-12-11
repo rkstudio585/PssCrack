@@ -1,6 +1,6 @@
 # PssCrack
 
-# Password Auditor Tool
+### Password Auditor Tool
 
 The **Password Auditor Tool** is a powerful and simple command-line utility designed to test the strength of passwords by performing **dictionary attacks** and **brute force attacks**. Built for ethical purposes such as auditing password security, this tool supports popular hashing algorithms like MD5, SHA-1, SHA-256, and SHA-512.  
 
